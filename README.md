@@ -43,9 +43,8 @@
   <div>
     <h3>📋 Top Languages</h3> 
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pauletop&layout=compact&langs_count=8&theme=&title_color=5285b3" style="max-width: 100%; margin-right: 10px;" alt="Top Languages"/>
-  </div>
-  <div align="right">
-    <h3 style="margin-top:0px;">🕕 Wakatime Stats</h3> 
+  </div><div align="right">
+    <h3>🕕 Wakatime Stats</h3> 
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pauletop&show_icons=true&theme=&include_all_commits=true&count_private=true&title_color=5285b3&icon_color=5285b3" style="max-width: 100%; margin-left: 10px" alt="Wakatime Stats"/>
   </div>
 </div>
