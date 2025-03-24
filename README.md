@@ -7,7 +7,7 @@
 </div>
 
 ## 📊 Activity Graph 
-![Phu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pauletop&theme=&bg_color=fff&hide_border=true&line=74acd8&color=74acd8)
+![Phu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pauletop&theme=&bg_color=fff&hide_border=true&line=74acd8&color=74acd8&point=5285b3&area=true&area_color=8abbe7)
 
 <!-- 5285b3 -->
 <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 19px > Skills </h2>
@@ -42,16 +42,16 @@
 <div style="display: grid; grid-template-columns: 2fr 3fr; gap: 10px;">
   <div>
     <h3>📋 Top Languages</h3> 
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pauletop&layout=compact&langs_count=8&theme=&title_color=5bcdec&hide_border=true" style="max-width: 100%; margin-right: 10px;" alt="Top Languages"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pauletop&layout=compact&langs_count=8&theme=&title_color=5285b3&hide_border=true" style="max-width: 100%; margin-right: 10px;" alt="Top Languages"/>
   </div>
   <div align="right">
     <h3>🕕 Wakatime Stats</h3> 
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pauletop&show_icons=true&theme=&include_all_commits=true&count_private=true&title_color=5bcdec&icon_color=5bcdec&hide_border=true" style="max-width: 100%; margin-left: 10px" alt="Wakatime Stats"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pauletop&show_icons=true&theme=&include_all_commits=true&count_private=true&title_color=5285b3&icon_color=5285b3&hide_border=true" style="max-width: 100%; margin-left: 10px" alt="Wakatime Stats"/>
   </div>
 </div>
 
 ### 📈 GitHub Streak Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pauletop&hide_border=true&color=5bcdec&border_radius=0" alt="GitHub Streak" style="width: 100%; margin: 0 8px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pauletop&hide_border=true&color=5285b3&border_radius=0" alt="GitHub Streak" style="width: 100%; margin: 0 8px"/>
 
 ## 📫 Contact Me
 <div align="center" style="display: flex; justify-content: center; gap: 10px">
