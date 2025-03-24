@@ -54,10 +54,10 @@
 
 ## 📫 Contact Me
 <div align="center" style="display: flex; justify-content: center; gap: 10px">
-  <a href="https://www.linkedin.com/in/nphu/" target="_blank">
+  <a href="https://www.linkedin.com/in/nphu/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%; margin: 0 5px"/>
   </a>
-  <a href="mailto:phumintsnguyen@gmail.com" target="_blank">
+  <a href="mailto:phumintsnguyen@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="max-width: 100%; margin: 0 5px"/>
   </a>
 
