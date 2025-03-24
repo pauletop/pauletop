@@ -67,5 +67,3 @@
 <a href="https://phunguyenmin.wordpress.com/">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" style="max-width: 100%; margin: 0 5px"/>
 </a>
-
-## 📕 Latest Projects
