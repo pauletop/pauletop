@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <a href="https://github.com/pauletop"><img src="assets/tree.webp" alt="logo" style="height: 88px;"/></a>
   <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?duration=5000&pause=500&color=74acd8&size=36&center=true&vCenter=true&width=800&height=50&lines=Hi+there,+I'm+Minh+Phu+%F0%9F%98%83;You+can+call+me+Paul+%F0%9F%98%8A;A+Computer+Science+Student+at+TDTU+%F0%9F%8E%93;Looking+for+Internship+%F0%9F%92%BC" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?duration=5000&pause=500&color=74acd8&size=36&center=true&vCenter=true&width=800&height=50&lines=Xin+chào,+mình+là+Phú+%F0%9F%98%83;You+can+call+me+Paul+%F0%9F%98%8A;A+Computer+Science+Student+at+TDTU+%F0%9F%8E%93;Looking+for+Internship+%F0%9F%92%BC" alt="Headline" />
   </div>
 </div>
 
