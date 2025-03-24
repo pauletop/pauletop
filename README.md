@@ -34,17 +34,17 @@
 
 ## 📈 GitHub Stats
 ### 📊 Activity Graph 
-![Phu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pauletop&theme=tokyo-night)
+![Phu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pauletop&theme=react-dark&bg_color=fff&hide_border=true&point=5bcdab)
 
 
 <div style="display: flex; justify-content: space-between;">
   <div>
     <h3>📋 Top Languages</h3> 
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pauletop&layout=compact&langs_count=8&theme=algolia&title_color=5bcdec" style="max-width: 100%; margin-right: 10px;" alt="Top Languages"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pauletop&layout=compact&langs_count=8&theme=&title_color=5bcdec&hide_border=true" style="max-width: 100%; margin-right: 10px;" alt="Top Languages"/>
   </div>
   <div>
     <h3>🕕 Wakatime Stats</h3> 
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pauletop&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&title_color=5bcdec&icon_color=5bcdec" style="max-width: 100%; margin-left: 10px" alt="Wakatime Stats"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pauletop&show_icons=true&theme=&include_all_commits=true&count_private=true&title_color=5bcdec&icon_color=5bcdec&hide_border=true" style="max-width: 100%; margin-left: 10px" alt="Wakatime Stats"/>
   </div>
 </div>
 
