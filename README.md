@@ -2,9 +2,10 @@
 <div id="header" align="center">
   <a href="https://github.com/pauletop"><img src="assets/tree.webp" alt="logo" style="height: 88px;"/></a>
   <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?duration=5000&pause=500&color=74acd8&size=36&center=true&vCenter=true&width=800&height=50&lines=Xin+chào,+mình+là+Phú+%F0%9F%98%83;You+can+call+me+Paul+%F0%9F%98%8A;TDTUのコンピュータサイエンスの学生です+%F0%9F%8E%93;Looking+for+Internship+%F0%9F%92%BC" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Hachi+Maru+Pop&duration=5000&pause=500&color=74acd8&size=36&center=true&vCenter=true&width=800&height=50&lines=Xin+chào,+mình+là+Phú+%F0%9F%98%83;You+can+call+me+Paul+%F0%9F%98%8A;TDTUのコンピュータサイエンスの学生です+%F0%9F%8E%93;Looking+for+Internship+%F0%9F%92%BC" alt="Headline" />
   </div>
 </div>
+<!-- Klee+One, Lilita+One, Caveat, Oooh+Baby -->
 
 ## 📊 Activity Graph 
 ![Phu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pauletop&theme=&bg_color=fff&hide_border=true&line=74acd8&color=74acd8&point=5285b3&area=true&area_color=8abbe7)
