@@ -8,7 +8,6 @@
 <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 19px > Skills </h2>
 
 <div align="center" style="display: flex; flex-direction: column; justify-content: center; gap: 9px">
-
   <div style="display: flex; align-items: center; margin: 0 10px;gap: 8px">
   <!-- programming languages -->
     <img src="https://skillicons.dev/icons?i=python" alt="icon" style="max-width: 50%; margin: 0 5px" width="45" height="45">
@@ -41,11 +40,11 @@
 <div style="display: flex; justify-content: space-between;">
   <div>
     <h3>📋 Top Languages</h3> 
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pauletop&layout=compact&langs_count=8&theme=algolia&title_color=5bcdec" style="max-width: 100%; margin-right: 10px" alt="Top Languages"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pauletop&layout=compact&langs_count=8&theme=algolia&title_color=5bcdec" style="width: 100%; margin-right: 10px;" alt="Top Languages"/>
   </div>
   <div>
     <h3>🕕 Wakatime Stats</h3> 
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pauletop&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&title_color=5bcdec&icon_color=5bcdec" style="max-width: 100%; margin-left: 10px" alt="Wakatime Stats"/>
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pauletop&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&title_color=5bcdec&icon_color=5bcdec" style="width: 100%; margin-left: 10px" alt="Wakatime Stats"/>
   </div>
 </div>
 
