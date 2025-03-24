@@ -2,13 +2,14 @@
 <div id="header" align="center">
   <a href="https://pauletop.github.io/"><img src="assets/tree.webp" alt="logo" style="height: 88px;"/></a>
   <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?duration=5000&pause=500&color=8ABBE7&size=36&center=true&vCenter=true&width=800&height=50&lines=Hi+there,+I'm+Minh+Phu+%F0%9F%98%83;You+can+call+me+Paul+%F0%9F%98%8A;A+Computer+Science+Student+at+TDTU+%F0%9F%8E%93;Looking+for+Internship+%F0%9F%92%BC" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?duration=5000&pause=500&color=74acd8&size=36&center=true&vCenter=true&width=800&height=50&lines=Hi+there,+I'm+Minh+Phu+%F0%9F%98%83;You+can+call+me+Paul+%F0%9F%98%8A;A+Computer+Science+Student+at+TDTU+%F0%9F%8E%93;Looking+for+Internship+%F0%9F%92%BC" alt="Headline" />
   </div>
 </div>
 
 ## 📊 Activity Graph 
-![Phu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pauletop&theme=react-dark&bg_color=fff&hide_border=true&point=5bcdab)
+![Phu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pauletop&theme=&bg_color=fff&hide_border=true&line=74acd8&color=74acd8)
 
+<!-- 5285b3 -->
 <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 19px > Skills </h2>
 
 <div align="center" style="display: flex; flex-direction: column; justify-content: center; gap: 9px">
