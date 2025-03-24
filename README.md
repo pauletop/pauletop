@@ -5,6 +5,10 @@
         <img src="https://readme-typing-svg.herokuapp.com?duration=5000&pause=500&color=8ABBE7&size=36&center=true&vCenter=true&width=800&height=50&lines=Hi+there,+I'm+Minh+Phu+%F0%9F%98%83;You+can+call+me+Paul+%F0%9F%98%8A;A+Computer+Science+Student+at+TDTU+%F0%9F%8E%93;Looking+for+Internship+%F0%9F%92%BC" alt="Headline" />
   </div>
 </div>
+
+## 📊 Activity Graph 
+![Phu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pauletop&theme=react-dark&bg_color=fff&hide_border=true&point=5bcdab)
+
 <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 19px > Skills </h2>
 
 <div align="center" style="display: flex; flex-direction: column; justify-content: center; gap: 9px">
@@ -33,16 +37,13 @@
 </div>
 
 ## 📈 GitHub Stats
-### 📊 Activity Graph 
-![Phu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pauletop&theme=react-dark&bg_color=fff&hide_border=true&point=5bcdab)
-
-
-<div style="display: flex; justify-content: space-between;">
+<!-- <div style="display: flex; justify-content: space-between;"> -->
+<div style="display: grid; grid-template-columns: 2fr 3fr; gap: 10px;">
   <div>
     <h3>📋 Top Languages</h3> 
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pauletop&layout=compact&langs_count=8&theme=&title_color=5bcdec&hide_border=true" style="max-width: 100%; margin-right: 10px;" alt="Top Languages"/>
   </div>
-  <div>
+  <div align="right">
     <h3>🕕 Wakatime Stats</h3> 
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pauletop&show_icons=true&theme=&include_all_commits=true&count_private=true&title_color=5bcdec&icon_color=5bcdec&hide_border=true" style="max-width: 100%; margin-left: 10px" alt="Wakatime Stats"/>
   </div>
