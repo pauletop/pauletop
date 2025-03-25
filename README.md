@@ -51,9 +51,9 @@
 </div>
 
 ### 📈 GitHub Streak Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pauletop&hide_border=true&border_radius=0" alt="GitHub Streak" style="width: 100%; margin: 0 8px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pauletop&hide_border=true&border_radius=" alt="GitHub Streak" style="width: 100%; margin: 0 8px"/>
 
-<img src="https://streak-stats.demolab.com/?user=pauletop&hide_border=true&border_radius=0" alt="GitHub Streak" style="width: 100%; margin: 0 8px"/>
+<!-- <img src="https://streak-stats.demolab.com/?user=pauletop&hide_border=true&color=5285b3&border_radius=0" alt="GitHub Streak" style="width: 100%; margin: 0 8px"/> -->
 
 ## 📫 Contact Me
 <div align="center" style="display: flex; justify-content: center; gap: 10px">
