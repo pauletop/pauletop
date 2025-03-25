@@ -2,13 +2,15 @@
 <div id="header" align="center">
   <a href="https://github.com/pauletop"><img src="assets/tree.webp" alt="logo" style="height: 88px;"/></a>
   <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Hachi+Maru+Pop&duration=5000&pause=500&color=74acd8&size=36&center=true&vCenter=true&width=800&height=50&lines=Xin+chào,+mình+là+Phú+%F0%9F%98%83;You+can+call+me+Paul+%F0%9F%98%8A;TDTUのコンピュータサイエンスの学生です+%F0%9F%8E%93;Looking+for+Internship+%F0%9F%92%BC" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&duration=5000&pause=500&color=74acd8&size=36&center=true&vCenter=true&width=800&height=50&lines=Xin+chào,+mình+là+Phú+%F0%9F%98%83;You+can+call+me+Paul+%F0%9F%98%8A;TDTUのコンピュータサイエンスの学生です+%F0%9F%8E%93;Looking+for+Internship+%F0%9F%92%BC" alt="Headline" />
   </div>
 </div>
-<!-- Klee+One, Lilita+One, Caveat, Oooh+Baby -->
+<!-- Hachi+Maru+Pop, Klee+One, Lilita+One, Caveat, Oooh+Baby -->
 
 ## 📊 Activity Graph 
-![Phu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pauletop&theme=&bg_color=fff&hide_border=true&line=74acd8&color=74acd8&point=5285b3&area=true&area_color=8abbe7)
+<!-- ![Phu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pauletop&theme=&bg_color=fff&hide_border=true&line=74acd8&color=74acd8&point=5285b3&area=true&area_color=8abbe7) -->
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pauletop&theme=&bg_color=fff&hide_border=true&line=74acd8&color=74acd8&point=5285b3&area=true&area_color=8abbe7" alt="Activity Graph" style="width: 100%; margin: 0"/>
 
 <!-- 5285b3 -->
 <h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 19px > Skills </h2>
@@ -68,3 +70,17 @@
 <a href="https://phunguyenmin.wordpress.com/">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" style="max-width: 100%; margin: 0 5px"/>
 </a>
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<script>
+  // graph's color depends on the current theme mode
+  const theme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+  document.querySelectorAll('img').forEach(img => {
+    if (img.src.startsWith('https://github-readme-')) {
+      img.src += theme === 'dark' ? '&theme=dark' : '';
+    }
+    if (img.src.startsWith('https://github-readme-activity-graph')) {
+      img.src += `&theme=${theme === 'dark' ? 'dark' : ''}&line=${theme === 'dark' ? '8abbe7' : '74acd8'}&color=${theme === 'dark' ? '8abbe7' : '74acd8'}&point=${theme === 'dark' ? '5285b3' : '5285b3'}&area_color=${theme === 'dark' ? '8abbe7' : '74acd8'}`;
+    }
+  });
+</script>
