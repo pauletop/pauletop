@@ -8,8 +8,6 @@
 <!-- Hachi+Maru+Pop, Klee+One, Lilita+One, Caveat, Oooh+Baby -->
 
 ## 📊 Activity Graph 
-<!-- ![Phu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pauletop&theme=&bg_color=fff&hide_border=true&line=74acd8&color=74acd8&point=5285b3&area=true&area_color=8abbe7) -->
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pauletop&theme=&bg_color=fff&hide_border=true&line=74acd8&color=74acd8&point=5285b3&area=true&area_color=8abbe7" alt="Activity Graph" style="width: 100%; margin: 0"/>
 
 <!-- 5285b3 -->
@@ -53,7 +51,8 @@
 </div>
 
 ### 📈 GitHub Streak Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pauletop&hide_border=true&color=5285b3&border_radius=0" alt="GitHub Streak" style="width: 100%; margin: 0 8px"/>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=pauletop&hide_border=true&color=5285b3&border_radius=0" alt="GitHub Streak" style="width: 100%; margin: 0 8px"/> -->
+<img src="https://streak-stats.demolab.com/?user=pauletop&hide_border=true&color=5285b3&border_radius=0" alt="GitHub Streak" style="width: 100%; margin: 0 8px"/>
 
 ## 📫 Contact Me
 <div align="center" style="display: flex; justify-content: center; gap: 10px">
@@ -70,17 +69,3 @@
 <a href="https://phunguyenmin.wordpress.com/">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" style="max-width: 100%; margin: 0 5px"/>
 </a>
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<script>
-  // graph's color depends on the current theme mode
-  const theme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
-  document.querySelectorAll('img').forEach(img => {
-    if (img.src.startsWith('https://github-readme-')) {
-      img.src += theme === 'dark' ? '&theme=dark' : '';
-    }
-    if (img.src.startsWith('https://github-readme-activity-graph')) {
-      img.src += `&theme=${theme === 'dark' ? 'dark' : ''}&line=${theme === 'dark' ? '8abbe7' : '74acd8'}&color=${theme === 'dark' ? '8abbe7' : '74acd8'}&point=${theme === 'dark' ? '5285b3' : '5285b3'}&area_color=${theme === 'dark' ? '8abbe7' : '74acd8'}`;
-    }
-  });
-</script>
