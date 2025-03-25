@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <a href="https://github.com/pauletop"><img src="assets/tree.webp" alt="logo" style="height: 88px;"/></a>
   <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&duration=5000&pause=500&color=74acd8&size=36&center=true&vCenter=true&width=800&height=50&lines=Xin+chào,+mình+là+Phú+%F0%9F%98%83;You+can+call+me+Paul+%F0%9F%98%8A;TDTUのコンピュータサイエンスの学生です+%F0%9F%8E%93;Looking+for+Internship+%F0%9F%92%BC" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Hachi+Maru+Pop&duration=5000&pause=500&color=74acd8&size=36&center=true&vCenter=true&width=800&height=50&lines=Xin+chào,+mình+là+Phú+%F0%9F%98%83;You+can+call+me+Paul+%F0%9F%98%8A;TDTUのコンピュータサイエンスの学生です+%F0%9F%8E%93;Looking+for+Internship+%F0%9F%92%BC" alt="Headline" />
   </div>
 </div>
 <!-- Hachi+Maru+Pop, Klee+One, Lilita+One, Caveat, Oooh+Baby -->
@@ -51,8 +51,9 @@
 </div>
 
 ### 📈 GitHub Streak Stats
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=pauletop&hide_border=true&color=5285b3&border_radius=0" alt="GitHub Streak" style="width: 100%; margin: 0 8px"/> -->
-<img src="https://streak-stats.demolab.com/?user=pauletop&hide_border=true&color=5285b3&border_radius=0" alt="GitHub Streak" style="width: 100%; margin: 0 8px"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pauletop&hide_border=true&border_radius=0" alt="GitHub Streak" style="width: 100%; margin: 0 8px"/>
+
+<img src="https://streak-stats.demolab.com/?user=pauletop&hide_border=true&border_radius=0" alt="GitHub Streak" style="width: 100%; margin: 0 8px"/>
 
 ## 📫 Contact Me
 <div align="center" style="display: flex; justify-content: center; gap: 10px">
