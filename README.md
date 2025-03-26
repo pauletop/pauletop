@@ -1,10 +1,3 @@
-<style>
-  h1, h2, h3 {
-    font-family: cursive;
-    color:rgb(113, 182, 242);
-  }
-</style>
-
 
 <div id="header" align="center">
   <a href="https://github.com/pauletop"><img src="assets/tree.webp" alt="logo" style="height: 88px;max-width: 100%;border-radius: 50px;"/></a>
@@ -13,8 +6,8 @@
   </div>
 </div>
 <!-- Hachi+Maru+Pop, Klee+One, Lilita+One, Caveat, Oooh+Baby -->
-<hr style="margin: 10px 0;height: 1px;color: #d1d9e0b3;" />
 
+## 
 <!-- ![Phu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pauletop&theme=&bg_color=fff&hide_border=true&line=74acd8&color=74acd8&point=5285b3&area=true&area_color=8abbe7) -->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pauletop&theme=&bg_color=fff&hide_border=true&line=74acd8&color=74acd8&point=5285b3&area=true&area_color=8abbe7" alt="Activity Graph" style="width: 100%; margin: 0"/>
@@ -59,7 +52,8 @@
   </div>
 </div>
 
-<hr style="margin: 10px 0;height: 1px;color: #d1d9e0b3;" />
+<br>
+<br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pauletop&hide_border=true&color=5285b3&border_radius=0" alt="GitHub Streak" style="width: 100%; margin: 0 8px"/>
 
 <!-- <img src="https://streak-stats.demolab.com/?user=pauletop&hide_border=true&color=5285b3&border_radius=0" alt="GitHub Streak" style="width: 100%; margin: 0 8px"/> -->
