@@ -13,7 +13,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pauletop&theme=&bg_color=fff&hide_border=true&line=74acd8&color=74acd8&point=5285b3&area=true&area_color=8abbe7" alt="Activity Graph" style="width: 100%; margin: 0"/>
 
 <!-- 5285b3 -->
-<h2> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 19px > Skills </h2>
+<h2 style="display: flex; align-items: center; gap: 10px; color:#56a8f0; font-family: 'Hachi Maru Pop', cursive;"> <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 19px > Skills </h2>
 
 <div align="center" style="display: flex; flex-direction: column; justify-content: center; gap: 9px">
   <div style="display: flex; align-items: center; margin: 0 10px;gap: 8px">
@@ -40,7 +40,9 @@
   </div>
 </div>
 
-## 📈 GitHub Stats
+<h2 style="display: flex; align-items: center; gap: 10px; color:#56a8f0; font-family: 'Hachi Maru Pop', cursive;"> <span style="font-size: 1.5rem">📈</span>
+GitHub Stats
+</h2>
 <!-- <div style="display: flex; justify-content: space-between;"> -->
 <div style="display: grid; grid-template-columns: 2fr 3fr; gap: 10px; grid-auto-flow: column; grid-auto-columns: 1fr;">
   <div>
@@ -58,7 +60,9 @@
 
 <!-- <img src="https://streak-stats.demolab.com/?user=pauletop&hide_border=true&color=5285b3&border_radius=0" alt="GitHub Streak" style="width: 100%; margin: 0 8px"/> -->
 
-## 📫 Contact Me
+<h2 style="display: flex; align-items: center; gap: 10px; color:#56a8f0; font-family: 'Hachi Maru Pop', cursive;"> <span style="font-size: 1.5rem">📫</span>
+Contact Me
+</h2>
 <div align="center" style="display: flex; justify-content: center; gap: 10px">
   <a href="https://www.linkedin.com/in/nphu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%; margin: 0 5px"/>
@@ -69,7 +73,10 @@
 
 </div>
 
-## 📚 Latest Blog Posts
+<h2 style="display: flex; align-items: center; gap: 10px; color:#56a8f0; font-family: 'Hachi Maru Pop', cursive;"> <span style="font-size: 1.5rem">📚</span>
+Latest Blog Posts
+</h2>
+<h3>📝 CNN & RNN Overview</h3>
 <a href="https://phunguyenmin.wordpress.com/">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" style="max-width: 100%; margin: 0 5px"/>
 </a>
