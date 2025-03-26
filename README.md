@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <a href="https://github.com/pauletop"><img src="assets/tree.webp" alt="logo" style="height: 88px; border-radius: 50px;"/></a>
+  <a href="https://github.com/pauletop"><img src="assets/tree.webp" alt="logo" style="height: 88px;max-width: 100%;border-radius: 50px;"/></a>
   <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?font=Hachi+Maru+Pop&duration=3000&pause=1000&color=74acd8&size=36&center=true&vCenter=true&width=800&height=50&lines=Xin+chào,+tui+là+Phú+%F0%9F%98%83;You+can+call+me+Paul+%F0%9F%98%8A;TDTUのコンピュータサイエンスの学生です+%F0%9F%8E%93;Looking+for+Internship+%F0%9F%92%BC" alt="Headline"/>
   </div>
