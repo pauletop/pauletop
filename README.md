@@ -44,26 +44,37 @@
 GitHub Stats
 </h2>
 <!-- <div style="display: flex; justify-content: space-between;"> -->
-<div style="display: grid; grid-template-columns: 2fr 3fr; gap: 10px; grid-auto-flow: column; grid-auto-columns: 1fr;">
-  <div>
-    <h3>📋 Top Languages</h3> 
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pauletop&layout=compact&langs_count=8&theme=&title_color=5285b3" style="max-width: 100%; margin-right: 10px;" alt="Top Languages"/>
-  </div><div align="right">
-    <h3>🕕 Wakatime Stats</h3> 
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pauletop&show_icons=true&theme=&include_all_commits=true&count_private=true&title_color=5285b3&icon_color=5285b3" style="max-width: 100%; margin-left: 10px" alt="Wakatime Stats"/>
-  </div>
+<!-- <div style="display: grid; grid-template-columns: 2fr 3fr; gap: 10px; grid-auto-flow: column; grid-auto-columns: 1fr;"> -->
+<div>
+  <table>
+  <tr>
+    <td>
+      <h3>📋 Top Languages</h3> 
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pauletop&layout=compact&langs_count=8&theme=&title_color=5285b3" alt="📋 Top Languages" style="max-width: 100%; margin-right: 10px;"/>
+    </td>
+    <td>
+      <h3>🕕 Wakatime Stats</h3> 
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pauletop&show_icons=true&theme=&include_all_commits=true&count_private=true&title_color=5285b3&icon_color=5285b3" alt="🕕 Wakatime Stats" style="max-width: 100%; margin-left: 10px"/>
+    </td>
+  </tr>
+</table>
 </div>
 
-<br>
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pauletop&hide_border=true&color=5285b3&border_radius=0" alt="GitHub Streak" style="width: 100%; margin: 0 8px"/>
 
-<!-- <img src="https://streak-stats.demolab.com/?user=pauletop&hide_border=true&color=5285b3&border_radius=0" alt="GitHub Streak" style="width: 100%; margin: 0 8px"/> -->
+<br>
+<br>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=pauletop&hide_border=true&color=5285b3&border_radius=0" alt="GitHub Streak" style="width: 100%; margin: 0 8px"/> -->
+
+<img src="https://streak-stats.demolab.com/?user=pauletop&hide_border=true&color=5285b3&border_radius=0" alt="GitHub Streak" style="width: 100%; margin: 0 8px"/>
 
 <h2 style="display: flex; align-items: center; gap: 10px; color:#56a8f0; font-family: 'Hachi Maru Pop', cursive;"> <span style="font-size: 1.5rem">📫</span>
 Contact Me
 </h2>
 <div align="center" style="display: flex; justify-content: center; gap: 10px">
+  <a href="https://github.com/pauletop/pauletop/issues" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="max-width: 100%; margin: 0 5px"/>
+
+  </a>
   <a href="https://www.linkedin.com/in/nphu/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%; margin: 0 5px"/>
   </a>
