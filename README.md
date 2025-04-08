@@ -6,6 +6,10 @@
 </div>
 <!-- Hachi+Maru+Pop, Klee+One, Lilita+One, Caveat, Oooh+Baby -->
 
+<p align="justify" style="text-align: justify; color: #74acd8; font-size: 0.8rem; font-family: 'Caveat', cursive;">
+  Hi there! I'm Phú, a curious mind with a passion for technology and a love for growing in creative ways. I am always eager to learn and explore new technologies, and I enjoy working on projects that challenge me to think outside the box. I am also a big fan of digital entertainment, and I believe that innovation and creativity go hand in hand.
+</p>
+
 ##
 
 <!-- ![Phu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pauletop&theme=&bg_color=fff&hide_border=true&line=74acd8&color=74acd8&point=5285b3&area=true&area_color=8abbe7) -->
