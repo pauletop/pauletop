@@ -70,23 +70,6 @@ GitHub Stats
 
 <img src="https://streak-stats.demolab.com/?user=pauletop&hide_border=true&color=5285b3&border_radius=0" alt="GitHub Streak" style="width: 100%; margin: 0 8px"/>
 
-<h2 style="display: flex; align-items: center; gap: 10px; color:#56a8f0; font-family: 'Hachi Maru Pop', cursive;"> <span style="font-size: 1.5rem">📫</span>
-Contact Me
-</h2>
-<div align="center" style="display: flex; justify-content: center; gap: 10px">
-  <a href="https://github.com/pauletop/pauletop/issues" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="max-width: 100%; margin: 0 5px"/>
-
-  </a>
-  <a href="https://www.linkedin.com/in/nphu/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%; margin: 0 5px"/>
-  </a>
-  <a href="mailto:phumintsnguyen@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="max-width: 100%; margin: 0 5px"/>
-  </a>
-
-</div>
-
 <h2 style="display: flex; align-items: center; gap: 10px; color:#56a8f0; font-family: 'Hachi Maru Pop', cursive;"> <span style="font-size: 1.5rem">📚</span>
 Latest Blog Posts
 </h2>
@@ -94,3 +77,26 @@ Latest Blog Posts
 <a href="https://phunguyenmin.wordpress.com/">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" style="max-width: 100%; margin: 0 5px"/>
 </a>
+
+<h2 style="display: flex; align-items: center; gap: 10px; color:#56a8f0; font-family: 'Hachi Maru Pop', cursive;"> <span style="font-size: 1.5rem">📫</span>
+Contact Me
+</h2>
+<div align="center" style="display: flex; flex-direction: column; justify-content: center; gap: 9px">
+  <p style="text-align: center; color: #74acd8; font-size: 0.8rem; font-family: 'Caveat', cursive;">
+    I'm always open to new opportunities and collaborations. If you have any questions or just want to chat, feel free to reach out to me through the links below!
+  </p>
+  <div style="display: flex; justify-content: center; gap: 10px">
+    <a href="https://github.com/pauletop/pauletop/issues" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="max-width: 100%; margin: 0 5px"/>
+    </a>
+    <a href="https://www.linkedin.com/in/nphu/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%; margin: 0 5px"/>
+    </a>
+    <a href="mailto:phumintsnguyen@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="max-width: 100%; margin: 0 5px"/>
+    </a>
+  </div>
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=pauletop&label=Visitors%20Count&color=04bade&style=for-the-badge&abbreviated=true" alt="Profile views" style="max-width: 100%; margin: 0 5px"/>
+  </div>
+</div>
